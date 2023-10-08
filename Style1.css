@@ -1,0 +1,59 @@
+/* Style */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(173, 196, 202);
+    color: black;
+    
+}
+  
+.container {
+  
+      width: 800px;
+      margin: auto;
+      background-color: rgb(204, 178, 28);
+}
+  
+ .header {
+    padding: 10px;
+}
+  
+  
+  
+.gambar {
+    width: 800px;
+    height: 950px;
+    background-image: url(WhatsApp\ Image\ 2023-10-08\ at\ 01.39.18_9675e043.jpg);
+    background-size: cover;
+    background-position: 0 -100px;
+    border-top:  solid rgb(204, 178, 28)b;
+    border-bottom: 5px solid prgb(204, 178, 28);
+  
+  
+}
+  
+.content {
+    padding: 20px;
+}
+  
+.content h2 {
+    font-size: 28px;
+    font-weight: bold;
+}
+  
+.content p {
+    font-family: Arial, sans-serif;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.footer {
+    background-color: rgb(204, 178, 28);
+    padding: 10px;
+}
+.footer .copy {
+    color: #000000;
+    text-align: center;
+    font-size: 12px;
+}
+section {
+    margin: 20px;
+}

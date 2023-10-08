@@ -1,0 +1,14 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #292929;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+form input,
+form textarea {
+    padding: 10px;
+    margin-bottom: 10px;
+}
